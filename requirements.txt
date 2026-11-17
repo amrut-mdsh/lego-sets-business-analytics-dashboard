@@ -1,0 +1,2 @@
+# Optional CSV profiler: Python 3.10+, standard library only.
+# Dashboard: Microsoft Power BI Desktop on Windows, installed separately.
